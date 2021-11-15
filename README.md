@@ -45,8 +45,11 @@ Coucou, c'est moi et j'apprends Git.
 
 Changelog
 
-        - Créez un sous-sous titre par commit, portant le nom du commit.
+- Créez un sous-sous titre par commit, portant le nom du commit.
             - Sous forme de texte, précisez
                 - les modifications réalisées,
                 - Les commandes utilisées sous forme de bloc de code !
         - Entre chaque exercice, insérez une séparation horizontale
+
+```git init```
+```git commit```
